@@ -9,9 +9,8 @@
 A comprehensive mechatronics design project for an **autonomous solar panel cleaning robot**. This repository covers the full design workflow across both project phases: **actuation, mechanical design, sensors**, and **MATLAB / Simscape Multibody / Simulink simulations**, supported by 3D CAD modeling in **SolidWorks**.
 
 <p align="center">
-  <img src="PICS/04.png" alt="Solar panel cleaning robot" width="700">
+  <img src="PICS/09.png" alt="Solar panel cleaning robot" width="700">
 </p>
-
 ---
 
 ## 📄 Overview
@@ -27,6 +26,9 @@ The project aims to design a robot capable of navigating across solar panel arra
 - Full system simulation in MATLAB, Simulink and Simscape Multibody with trajectory generation and animation
 
 The project was carried out at the **University of Tehran** under the supervision of **Dr. Hadi**.
+<p align="center">
+  <img src="PICS/04.png" alt="Solar panel cleaning robot view from bottom" width="700">
+</p>
 
 ---
 
