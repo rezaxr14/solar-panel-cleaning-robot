@@ -1,0 +1,33 @@
+MIT License
+
+Copyright (c) 2026 Reza Nadimi and Behrad Mashadi Zamani Jalayer
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+Third-Party Content Notice
+
+The original base CAD model of the robot chassis was obtained from a third
+party whose identity and license terms are unknown to the authors. That
+original geometry is NOT covered by the license above and remains the property
+of its original creator(s). The license above applies only to the authors'
+own contributions: modifications to the CAD model, added sensors, motors,
+wheels and mechanisms, all MATLAB / Simulink / Simscape Multibody models and
+scripts, animations, calculations, and documentation.
