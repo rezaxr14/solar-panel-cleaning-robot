@@ -9,7 +9,7 @@
 A comprehensive mechatronics design project for an **autonomous solar panel cleaning robot**. This repository covers the full design workflow across both project phases: **actuation, mechanical design, sensors**, and **MATLAB / Simscape Multibody / Simulink simulations**, supported by 3D CAD modeling in **SolidWorks**.
 
 <p align="center">
-  <img src="PICS/4.png" alt="Solar panel cleaning robot" width="700">
+  <img src="PICS/04.png" alt="Solar panel cleaning robot" width="700">
 </p>
 
 ---
@@ -55,7 +55,7 @@ The project was carried out at the **University of Tehran** under the supervisio
 - **Side wheel servo**: Delta ASDA-B2 / LS Mecapion L7N / Yaskawa Sigma-7 (selected based on 12 N·m design torque for misalignment crossing)
 
 <p align="center">
-  <img src="PICS/6.png" alt="Actuation and drivetrain" width="700">
+  <img src="PICS/06.png" alt="Actuation and drivetrain" width="700">
 </p>
 
 ### Sensors
