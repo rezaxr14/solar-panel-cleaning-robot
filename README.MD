@@ -177,10 +177,22 @@ Department of Mechatronics Engineering – Fall 1404–1405 (2025–2026)
 
 ---
 
+## 🙏 Acknowledgments & Third-Party Content
+
+The base CAD model of the robot chassis was obtained from an unknown third-party source. We have extensively modified it and added our own work on top, including:
+
+- Redesigned and modified mechanical structure
+- Added sensors, motors, wheels, gearbox and the lateral misalignment mechanism
+- Complete MATLAB / Simulink / Simscape Multibody simulations
+- Trajectory generation, animations and calculations
+- Documentation and report
+
+If you are the original author of the base model and would like to be credited (or have concerns), please open an issue and we will gladly update the attribution or remove the content.
+
 ## 📃 License
 
-This project is licensed under the MIT License – see [LICENSE](LICENSE) for details.
+The original work in this repository (modifications to the CAD model, MATLAB/Simulink/Simscape models and scripts, animations, calculations, and documentation) is licensed under the MIT License – see [LICENSE](LICENSE) for details.
 
----
+The original base CAD geometry from the unknown third-party source is **not** covered by this license (see [Acknowledgments & Third-Party Content](#-acknowledgments--third-party-content)).
 
 *For any questions or collaboration, feel free to open an issue or pull request.*
